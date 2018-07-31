@@ -1,8 +1,6 @@
 # Awesome list of Haskell mentors
 
-An amazing list of Haskell developers who would like to mentor beginner-contributors in open source projects.
-
-## To experienced developers
+## To experienced Haskell developers
 
 You have an open project and
 
@@ -14,10 +12,14 @@ You have an open project and
 
 Then why do not you become a mentor for beginners?
 
-## To beginners developers
+### Feel free to PR!
+
+## To beginner developers
 
 You have already mastered the basics of the language, solved the tasks on CodeWars and you lack reality and usefulness for others.
 Then why do not you become a contributor in an open project, where you will be helped?
+
+## Open Source Haskell Mentors
 
 | Contributor/Mentor Name                         | PR Mentorship Focus area                                                                                                                                                                         | Contact                                                                                             |
 | :---------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
