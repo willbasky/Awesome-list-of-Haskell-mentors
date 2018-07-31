@@ -15,6 +15,7 @@ Why not become a mentor for beginners? Feel free to PR!
 ## To beginner Haskell developers
 
 The basics of the language are mastered, the tasks for CodeWars do not benefit the world, real development is not so unassailable.
+
 Why not become an open project contributor?
 
 ## Open Source Haskell Mentors
