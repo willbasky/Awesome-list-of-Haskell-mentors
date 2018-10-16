@@ -1,3 +1,5 @@
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
 # Awesome list of Haskell mentors
 
 ## To experienced Haskell developers
