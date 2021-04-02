@@ -28,7 +28,6 @@ Real development is not so unassailable, it helps people. That is important! Why
 
 | Contributor/Mentor Name | PR Mentorship Focus area | Contact |
 | :---------------------- | :----------------------- | :------ |
-| [Kowainik](https://github.com/kowainik)         | For newbies there are [Relude](https://github.com/kowainik/relude), [Tomland](https://github.com/kowainik/tomland) and [Summoner](https://github.com/kowainik/summoner). Other ones coming soon. | <xrom.xkov@gmail.com>                                                                    |
 | [Alexander Granin](https://github.com/graninas) | The Hydra framework for backends and CLI apps [Hydra](https://github.com/graninas/Hydra)                                                                                                                          | [vk](https://vk.com/graninas), [telegram](https://t.me/graninas), [twitter](https://twitter.com/graninas) or <graninas@gmail.com> |
 | [Andrey Mokhov](https://github.com/snowleopard) | [Algebraic graphs](https://github.com/snowleopard/alga) and [GHC build system](https://github.com/snowleopard/hadrian)                                                                           | [twitter](https://twitter.com/andreymokhov)                                                         |
 | [Vladislav Zavialov](https://github.com/int-index/) | [Structural code editor](https://github.com/int-index/foundry) and a [layouting engine](https://github.com/int-index/slay/) | [twitter](https://twitter.com/int_index), [telegram](https://t.me/int_index)
