@@ -35,3 +35,4 @@ Real development is not so unassailable, it helps people. That is important! Why
 | [Yuriy Syrovetskiy](https://github.com/cblp) | Distributed format/framework/database [RON](https://github.com/ff-notes/ron) and task manager [_ff_](https://github.com/ff-notes/ff) | [telegram](https://t.me/ff_dev)
 | [Bulat Ziganshin](https://github.com/Bulat-Ziganshin) | [Magus](https://github.com/Bulat-Ziganshin/magus): portable high-level assembler with authentic C syntax | [telegram](https://t.me/Bulat_Ziganshin) or <Bulat.Ziganshin@gmail.com>
 | [Fabrizio Ferrai](https://github.com/f-f) | [spago](https://github.com/spacchetti/spago): 🍝 PureScript package manager and build tool powered by Dhall and package-sets | [telegram](https://t.me/nilrecurring) or <spago-help@ferrai.io>
+| [Julian Ospald](https://github.com/hasufell) | [ghcup](https://gitlab.haskell.org/haskell/ghcup-hs): 🍵 GHCup haskell installer | [telegram](https://t.me/hasufell) or <hasufell@hasufell.de>
