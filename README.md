@@ -37,3 +37,4 @@ Real development is not so unassailable, it helps people. That is important! Why
 | [Fabrizio Ferrai](https://github.com/f-f) | [spago](https://github.com/spacchetti/spago): 🍝 PureScript package manager and build tool powered by Dhall and package-sets | [telegram](https://t.me/nilrecurring) or <spago-help@ferrai.io>
 | [Julian Ospald](https://github.com/hasufell) | [ghcup](https://gitlab.haskell.org/haskell/ghcup-hs): 🍵 GHCup haskell installer | [telegram](https://t.me/hasufell) or <hasufell@hasufell.de>
 | [Sridhar Ratnakumar](https://github.com/srid) | [Ema](https://ema.srid.ca/) and [Emanote](https://github.com/srid/emanote): Note-taking; Pandoc AST; Static site generation; Graph data structure; Nix | [matrix](https://matrix.to/#/#srid-haskell:matrix.org) or <srid@srid.ca>
+| [Mark Wales](https://github.com/smallhadroncollider) | [taskell](https://taskell.app/): command-line Kanban board | <mark@smallhadroncollider.com>
